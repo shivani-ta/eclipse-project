@@ -19,8 +19,8 @@ public class Trainer {
 	public String getTrainerName() {
 		return trainerName;
 	}
-	public void setTrainername(String trainername) {
-		this.trainerName = trainername;
+	public void setTrainerName(String trainerName) {
+		this.trainerName = trainerName;
 	}
 	public String getTrainerAddress() {
 		return trainerAddress;
@@ -33,6 +33,8 @@ public class Trainer {
 		return "Trainer [trainerId=" + trainerId + ", trainerName=" + trainerName + ", trainerAddress=" + trainerAddress
 				+ "]";
 	}
+	
+	
 	
 	
 
