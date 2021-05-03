@@ -19,7 +19,6 @@ INDEX VERSION 1.131+C:\Users\S540965\workspace\.metadata\.plugins\org.eclipse.jd
 2291021467.index
 4047483401.index
 4053558065.index
-2616617764.index
 3004545028.index
 3394822745.index
 567887840.index
@@ -52,9 +51,7 @@ INDEX VERSION 1.131+C:\Users\S540965\workspace\.metadata\.plugins\org.eclipse.jd
 3374822019.index
 1941075126.index
 2427936771.index
-3358254024.index
 3119814356.index
-2344528575.index
 3073280699.index
 2969262393.index
 3934304919.index
@@ -105,7 +102,6 @@ INDEX VERSION 1.131+C:\Users\S540965\workspace\.metadata\.plugins\org.eclipse.jd
 272075866.index
 3892947714.index
 4071928552.index
-1401841821.index
 2001300843.index
 834051275.index
 2934923477.index
@@ -125,7 +121,6 @@ INDEX VERSION 1.131+C:\Users\S540965\workspace\.metadata\.plugins\org.eclipse.jd
 3371514473.index
 195384312.index
 769437379.index
-1772138191.index
 3020807761.index
 1890929471.index
 1130122420.index
